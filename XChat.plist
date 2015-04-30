@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://m.sinyi.com.cn/packages/largeImage_XChat.png</string>
+					<string>http://m.sinyi.com.cn/packages/largeImageXChat.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://m.sinyi.com.cn/packages/smallImage_XChat.png</string>
+					<string>http://m.sinyi.com.cn/packages/smallImageXChat.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
